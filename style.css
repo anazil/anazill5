@@ -12,6 +12,7 @@ li{
   float: left;
   padding: 35px;
   color: grey;
+  font-size: 20px;
   }
 h1{
   font-family: "Brush Script MT", cursive;
@@ -50,4 +51,5 @@ h6{
 button{
   color: white;
   background-color: black;
+  font-size: 18px;
 }
