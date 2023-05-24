@@ -29,6 +29,7 @@ p{
   color: grey;
   font-family: Tahoma, Verdana, sans-serif;
   word-spacing: 0px;
+  letter-spacing: 2px;
 }
 li:hover{
   background-color: black;
