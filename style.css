@@ -1,0 +1,52 @@
+body{
+  background-color: Ivory;
+  
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+ul{
+  list-style-type: none;overflow: hidden;
+  font-size: 10px;
+}
+li{
+  float: left;
+  padding: 35px;
+  color: grey;
+  }
+h1{
+  font-family: "Brush Script MT", cursive;
+  font-size: 25px;
+  text-align: center;
+  color: white;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+}
+p{
+  color: grey;
+  font-family: Tahoma, Verdana, sans-serif;
+  word-spacing: 0px;
+}
+li:hover{
+  background-color: black;
+}
+h3{
+  color: white;
+}
+p1{
+  color: grey;
+  text-align:center;
+}
+h2{
+  font-family: "Courier New
+}
+h6{
+  text-align: center;
+}
+button{
+  color: white;
+  background-color: black;
+}
